@@ -1,5 +1,5 @@
 [
-    { "nome": "Funcionário 1", "horarios": ["08:30", "13:00"] },
+    { "nome": "Lucas 1", "horarios": ["23:50", "13:00"] },
     { "nome": "Funcionário 2", "horarios": ["09:00", "14:00"] },
     { "nome": "Funcionário 3", "horarios": ["10:15", "15:00"] },
     { "nome": "Funcionário 4", "horarios": ["11:45", "16:00"] },

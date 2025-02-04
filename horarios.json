@@ -1,0 +1,11 @@
+[
+    { "nome": "Funcionário 1", "horarios": ["08:30", "13:00"] },
+    { "nome": "Funcionário 2", "horarios": ["09:00", "14:00"] },
+    { "nome": "Funcionário 3", "horarios": ["10:15", "15:00"] },
+    { "nome": "Funcionário 4", "horarios": ["11:45", "16:00"] },
+    { "nome": "Funcionário 5", "horarios": ["13:00", "17:30"] },
+    { "nome": "Funcionário 6", "horarios": ["14:30", "17:00"] },
+    { "nome": "Funcionário 7", "horarios": ["15:45", "18:15"] },
+    { "nome": "Funcionário 8", "horarios": ["17:20", "19:00"] }
+  ]
+  

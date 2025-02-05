@@ -1,11 +1,10 @@
-[
-    { "nome": "Lucas :) ", "horarios": ["12:05", "13:00"] },
-    { "nome": "Funcionário 2", "horarios": ["09:00", "14:00"] },
-    { "nome": "Funcionário 3", "horarios": ["10:15", "15:00"] },
-    { "nome": "Funcionário 4", "horarios": ["11:45", "16:00"] },
-    { "nome": "Funcionário 5", "horarios": ["13:00", "17:30"] },
-    { "nome": "Funcionário 6", "horarios": ["14:30", "17:00"] },
-    { "nome": "Funcionário 7", "horarios": ["15:45", "18:15"] },
-    { "nome": "Funcionário 8", "horarios": ["17:20", "19:00"] }
-  ]
-  
+{
+  "Elmo Pimenta": ["22:00", "01:00", "04:00"],
+  "Evandro Katsumata": ["23:00", "02:00", "05:00"],
+  "Everton Berto": ["22:30", "01:30", "04:30"],
+  "Maya Souza": ["21:00", "00:00", "03:00"],
+  "Yuri Umaki": ["22:15", "01:15", "04:15"],
+  "Willian Santos": ["23:30", "02:30", "05:30"],
+  "Hudson Miranda": ["21:45", "00:45", "03:45"],
+  "Rafael Rodrigues": ["22:45", "01:45", "04:45"]
+}

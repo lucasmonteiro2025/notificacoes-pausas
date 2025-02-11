@@ -1,5 +1,20 @@
 {
-  "Lucas": ["23:40", "02:00", "05:00"],
-  "Carlos": ["22:30", "02:30", "05:30"],
-  "Ana": ["23:00", "03:00", "06:00"]
+  "colaboradores": [
+    {
+      "nome": "João",
+      "pausas": [
+        { "tipo": "Pausa 1", "hora": "21:00" },
+        { "tipo": "Pausa 2", "hora": "00:00" },
+        { "tipo": "Pausa 3", "hora": "03:00" }
+      ]
+    },
+    {
+      "nome": "Maria",
+      "pausas": [
+        { "tipo": "Pausa 1", "hora": "22:00" },
+        { "tipo": "Pausa 2", "hora": "01:00" },
+        { "tipo": "Pausa 3", "hora": "04:00" }
+      ]
+    }
+  ]
 }

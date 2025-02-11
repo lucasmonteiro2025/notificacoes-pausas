@@ -1,15 +1,15 @@
 {
   "colaboradores": [
     {
-      "nome": "João",
+      "nome": "Lucas",
       "pausas": [
         { "tipo": "Pausa 1", "hora": "21:00" },
-        { "tipo": "Pausa 2", "hora": "00:00" },
+        { "tipo": "Pausa 2", "hora": "00:41" },
         { "tipo": "Pausa 3", "hora": "03:00" }
       ]
     },
     {
-      "nome": "Maria",
+      "nome": "Davi",
       "pausas": [
         { "tipo": "Pausa 1", "hora": "22:00" },
         { "tipo": "Pausa 2", "hora": "01:00" },

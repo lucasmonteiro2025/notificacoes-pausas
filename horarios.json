@@ -4,7 +4,7 @@
       "nome": "Lucas",
       "pausas": [
         { "tipo": "Pausa 1", "hora": "21:00" },
-        { "tipo": "Pausa 2", "hora": "01:05" },
+        { "tipo": "Pausa 2", "hora": "01:12" },
         { "tipo": "Pausa 3", "hora": "03:00" }
       ]
     },

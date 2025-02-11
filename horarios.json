@@ -1,20 +1,18 @@
-{
-  "colaboradores": [
+[
     {
-      "nome": "Lucas",
-      "pausas": [
-        { "tipo": "Pausa 1", "hora": "21:00" },
-        { "tipo": "Pausa 2", "hora": "01:12" },
-        { "tipo": "Pausa 3", "hora": "03:00" }
-      ]
+        "nome": "Funcionario 1",
+        "pausas": [
+            { "horario": "10:00" },
+            { "horario": "12:00" },
+            { "horario": "15:00" }
+        ]
     },
     {
-      "nome": "Davi",
-      "pausas": [
-        { "tipo": "Pausa 1", "hora": "22:00" },
-        { "tipo": "Pausa 2", "hora": "01:00" },
-        { "tipo": "Pausa 3", "hora": "04:00" }
-      ]
+        "nome": "Funcionario 2",
+        "pausas": [
+            { "horario": "10:30" },
+            { "horario": "12:30" },
+            { "horario": "15:30" }
+        ]
     }
-  ]
-}
+]
